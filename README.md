@@ -9,17 +9,29 @@
 - [Aplicación YesOrNo](#aplicación-yesorno)
 
 ## Ejercicios 01 al 04
-Aquí se describen los ejercicios del 01 al 04...
+01: Hello World. 
+02: Variables. 
+03: Maps. 
+04: List, maps and Iterables. 
 
 ## Ejercicios 05 al 08
-Aquí se describen los ejercicios del 05 al 08...
+05: Functions. 0.25 puntos.
+06: Classes. 0.25 puntos.
+07: Constructors and names. 0.25 puntos.
+08: get and set. 0.25 puntos.
 
 ## Ejercicios 09 al 15
-Aquí se describen los ejercicios del 09 al 15...
+09: Abstract class. 0.25 puntos.
+10: Mixins. 0.5 puntos.
+11: Futures. 0.25 puntos.
+12: Async Await. 0.25 puntos.
+13: Try catch finally. 0.25 puntos.
+14: Streams. 0.25 puntos.
+15: Stream await. 0.25 puntos. 
 
 ## Aplicación HelloWorld
-Descripción de la aplicación HelloWorld...
+Aplicación HelloWorld 
 
 ## Aplicación YesOrNo
-Descripción de la aplicación YesOrNo...
+Aplicación YesOrNo 
 
