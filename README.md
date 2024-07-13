@@ -1,5 +1,6 @@
 # Flutter-Ejemplos
 # Mi Proyecto
+Recopilación de proyectos de flutter y dart básicos 
 
 ## Índice
 - [Ejercicios 01 al 04](#ejercicios-01-al-04)
