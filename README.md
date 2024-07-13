@@ -26,6 +26,7 @@
 ## Ejercicios 01 al 04
 ### Hello World
 01: Hello World. 
+![Texto alternativo](Imagenes/jelloword)
 
 ### Variables
 02: Variables. 
