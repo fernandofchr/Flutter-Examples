@@ -46,7 +46,7 @@
 ## Ejercicios 05 al 08
 ### Functions
 05: Functions. 
-![Texto alternativo](Imagenes/funcionescod.jpg)
+![Texto alternativo](Imagenes/funcionecod.jpg)
 ![Texto alternativo](Imagenes/funcionesresul.jpg)
 
 ### Classes
@@ -100,8 +100,8 @@
 
 ### Stream await
 15: Stream await. 
-![Texto alternativo](Imagenes/streamsawaitcode.jpg)
-![Texto alternativo](Imagenes/streamsawaitresul.jpg)
+![Texto alternativo](Imagenes/streamawaitcode.jpg)
+![Texto alternativo](Imagenes/streamawaitresul.jpg)
 
 ## Aplicación HelloWorld
 Aplicación HelloWorld 
