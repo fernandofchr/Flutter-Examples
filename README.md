@@ -36,7 +36,7 @@
 ### Maps
 03: Maps. 
 ![Texto alternativo](Imagenes/mapscod.jpg)
-![Texto alternativo](Imagenes/mapreul.jpg)
+![Texto alternativo](Imagenes/mapsreul.jpg)
 
 ### List, maps and Iterables
 04: List, maps and Iterables. 
@@ -80,7 +80,7 @@
 ![Texto alternativo](Imagenes/futurecode2.jpg)
 ![Texto alternativo](Imagenes/futurecode3.jpg)
 ![Texto alternativo](Imagenes/futureresul1.png)
-![Texto alternativo](Imagenes/futureresul2.ong)
+![Texto alternativo](Imagenes/futureresul2.png)
 ![Texto alternativo](Imagenes/futureresul3.png)
 
 ### Async Await
