@@ -111,3 +111,17 @@ Aplicación HelloWorld
 ## Aplicación YesOrNo
 Aplicación YesOrNo 
 ![Texto alternativo](Imagenes/app_yesno.jpg)
+
+## Extras
+Extras:
+![Texto alternativo](Imagenes/String_en_dart.jpg)
+
+![Texto alternativo](Imagenes/final_en_dart.jpg)
+
+![Texto alternativo](Imagenes/enteros_en_dart.jpg)
+
+![Texto alternativo](Imagenes/doubles_en_dart.jpg)
+
+![Texto alternativo](Imagenes/bools_en_dart.jpg)
+
+
