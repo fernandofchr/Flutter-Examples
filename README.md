@@ -113,9 +113,12 @@ Aplicación HelloWorld
 Aplicación YesOrNo 
 ![Texto alternativo](Imagenes/app_yesno.jpg)
 
+## Arquitectura Limpia
+![Texto alternativo](Imagenes/aquitectura_limpia.jpg)
+
 ## Extras
 Extras:
-![Texto alternativo](Imagenes/String_en_dart.jpg)
+## Extras
 
 ![Texto alternativo](Imagenes/final_en_dart.jpg)
 
