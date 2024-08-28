@@ -128,4 +128,16 @@ Extras:
 
 ![Texto alternativo](Imagenes/bools_en_dart.jpg)
 
+![Texto alternativo](Imagenes/String_en_dart.jpg)
+
+![Texto alternativo](Imagenes/dart_break.jpg)
+
+![Texto alternativo](Imagenes/dart_filter.jpg)
+
+![Texto alternativo](Imagenes/dart_nullsafety.jpg)
+
+![Texto alternativo](Imagenes/dart_privatedata.jpg)
+
+![Texto alternativo](Imagenes/dart_throw.jpg)
+
 
